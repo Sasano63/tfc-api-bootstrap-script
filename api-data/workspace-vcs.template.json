@@ -2,7 +2,7 @@
   "data": {
     "attributes": {
       "name": "placeholder",
-      "terraform_version": "0.12.29",
+      "terraform_version": "1.0.11",
       "working-directory": "",
       "auto-apply": "false",
       "queue-all-runs": "true",
