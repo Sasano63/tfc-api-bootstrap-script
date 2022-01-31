@@ -1,0 +1,9 @@
+{
+  "data":
+  {
+    "attributes": {
+      "name":"tfe-aws-bastion-host-test"
+    },
+    "type":"workspaces"
+  }
+}
